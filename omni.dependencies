@@ -1,0 +1,8 @@
+[
+	{
+		"remote":"github",
+		"repository":"BlackMesa123/android_kernel_samsung_sdm450",
+		"target_path":"kernel/samsung/sdm450",
+		"revision":"android-9.0"
+	}
+]
